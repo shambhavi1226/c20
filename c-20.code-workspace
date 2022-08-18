@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "c-20",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
